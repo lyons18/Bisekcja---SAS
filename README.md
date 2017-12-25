@@ -1,2 +1,5 @@
-# Bisekcja---SAS
-Program przygotowany w ramach zadania rekrutacyjnego do Akademii SAS firmy SAS Institute Polska. Służy do obliczania miejsc zerowych funkcji nieliniowych za pomocą metody połowienia.
+# bisection_method_implementation
+Simple implementation of bisection method - algorithm for finding roots of continuous functions.
+
+Preparation of this code was one of the tasks during recruitment process for Polish SAS Institute department.
+Because of this, all names, comments and explanations are written in Polish.
